@@ -10,3 +10,7 @@
 9) git add .
 10) git commit -m "adaptation pour deux personnes"
 11) git push
+12) git add .
+13) git commit -m "adaptation pour l'ajout d'Aymeric"
+14) git push
+
