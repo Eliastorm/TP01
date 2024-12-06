@@ -7,3 +7,6 @@
 7) git commit -m "premier commit"
 8) git push -u origin main
 -> On m'a demandé de vérifier ma connection sur mon navigateur web et j'ai accepté
+9) git add .
+10) git commit -m "adaptation pour deux personnes"
+11) git push
