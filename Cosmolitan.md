@@ -5,7 +5,7 @@ Recette du Cosmopolitan pour une personne :
 - 1.5 cl Jus de citron vert
 - 1 cl Jus de cranberry
 
-Recette du Cosmopolitan pour deux personnes :
+Recette du Cosmopolitan pour deux personnes : CELLE QU'IL FAUT
 
 - 3 cl Liqueur d'orange Cointreau
 - 6 cl Vodka Zubrowka
