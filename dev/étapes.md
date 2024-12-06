@@ -13,4 +13,9 @@
 12) git add .
 13) git commit -m "adaptation pour l'ajout d'Aymeric"
 14) git push
+15) git branch "malade"
+16) git checkout malade
+17) git add .
+18) git commit -m "ajout de la branch malade et de la recette ignoble"
+19) git push origin malade
 

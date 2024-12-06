@@ -4,6 +4,7 @@ Recette du Cosmopolitan pour une personne :
 - 3 cl Vodka Zubrowka
 - 1.5 cl Jus de citron vert
 - 1 cl Jus de cranberry
+- 1 L de javel
 
 Recette du Cosmopolitan pour deux personnes :
 
@@ -11,6 +12,7 @@ Recette du Cosmopolitan pour deux personnes :
 - 6 cl Vodka Zubrowka
 - 3 cl Jus de citron vert
 - 2 cl Jus de cranberry
+- 1 L de javel
 
 Recette du Cosmopolitan pour dix personnes (sacré Aymeric) :
 
@@ -18,3 +20,4 @@ Recette du Cosmopolitan pour dix personnes (sacré Aymeric) :
 - 30 cl Vodka Zubrowka
 - 15 cl Jus de citron vert
 - 10 cl Jus de cranberry
+- 1 L de javel
